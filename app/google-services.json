@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437112267118",
+    "project_id": "upload-image-firebase-be360",
+    "storage_bucket": "upload-image-firebase-be360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437112267118:android:20b9d918af7a6cfc9ae17f",
+        "android_client_info": {
+          "package_name": "com.example.uploadimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437112267118-i107jciunjc0t8ehdb9fmvtuveqsf1i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxDgpUx72pMwhlJOGFLXMX9sZq9FYX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437112267118-i107jciunjc0t8ehdb9fmvtuveqsf1i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
